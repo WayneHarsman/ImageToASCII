@@ -2,7 +2,7 @@ import getopt
 import sys
 from PIL import Image, ImageOps, ImageEnhance
 
-
+# don`t read this shit
 def main(argv):
     path = ''
     xres, yres = 40, 20
@@ -77,9 +77,5 @@ class ASCIIMapper:
         ind = max((0, ind))
         return self.symbols[ind]
 
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main(sys.argv[1:])
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/

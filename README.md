@@ -1,5 +1,5 @@
 # ImageToASCII
-Test python project made for fun. Simple console app allows you to convert image to ACII coded text banner
+Test python project made for fun. Simple console app allows you to convert image to ASCII coded text banner
 
 # Usage:
   `aska.py -i <image path>`
